@@ -1,0 +1,15 @@
+.input-default {
+    margin: 24px 0;
+    background-color: #f7f7f7;
+}
+
+.input-default input {
+    background-color: #fff;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 50%;
+    border: none;
+    font-size: 24px;
+    padding: 16px;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
